@@ -19,3 +19,5 @@ Single Motor PID Coding
 
 1. Please refer the coding for the connection of the SPG30E,motor driver and arduino.
 2. Adjust the PPR accordingly to your type of SPG30E-xxxk for example, on cytron webpage, the ppr is 600 for 90 degree, so a full 360 is      2400.
+
+Video of PID controller is inside the PID controller files..
